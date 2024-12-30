@@ -1,0 +1,10 @@
+{   "manifest_version":3,
+    "name":"MEDIA-BASKET",
+    "version":"0.0.1",
+    "description":"A platofrm for students to  keep all your social media platforms at one place ",
+    "action":{
+        "default_popup":"popup.html",
+        "default_icon":"student.png"
+    },
+    "permissions": ["activeTab"]
+}
